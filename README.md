@@ -9,10 +9,13 @@ On peut également considérer les annonces faites par les étudiants pour trouv
 colocataires.
 
 
+Bannière : ![Uploading ChatGPT Image 6 mars 2026, 15_57_23.png…]()
+
+
 | Élément                      | Couleur    | Code HEX    |
 | ---------------------------- | ---------- | ----------- |
 | Bleu foncé (texte + chapeau) | navy       | **#1F2D44** |
 | Bleu clair (bâtiment)        | cyan bleu  | **#2AA7D6** |
 | Vert (bâtiment gauche)       | vert frais | **#8CC63F** |
 | Vert foncé (sol)             | vert herbe | **#5FAF2C** |
-![Uploading ChatGPT Image 6 mars 2026, 15_57_23.png…]()
+

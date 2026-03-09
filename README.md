@@ -7,3 +7,11 @@ particuliers ou par les organismes tels que le CROUS. Les étudiants pourront en
 certains comme favoris, déposer une candidature ou simplement avoir des renseignements.
 On peut également considérer les annonces faites par les étudiants pour trouver des
 colocataires.
+
+
+| Élément                      | Couleur    | Code HEX    |
+| ---------------------------- | ---------- | ----------- |
+| Bleu foncé (texte + chapeau) | navy       | **#1F2D44** |
+| Bleu clair (bâtiment)        | cyan bleu  | **#2AA7D6** |
+| Vert (bâtiment gauche)       | vert frais | **#8CC63F** |
+| Vert foncé (sol)             | vert herbe | **#5FAF2C** |

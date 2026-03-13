@@ -9,7 +9,7 @@ On peut également considérer les annonces faites par les étudiants pour trouv
 colocataires.
 
 
-Bannière : ![Uploading ChatGPT Image 6 mars 2026, 15_57_23.png…]()
+
 
 
 | Élément                      | Couleur    | Code HEX    |
